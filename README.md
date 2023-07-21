@@ -1,5 +1,2 @@
-second-branch
-
-# first-branch
- main
+# third-branch
 Practice merging conflicts using git BASH and github
